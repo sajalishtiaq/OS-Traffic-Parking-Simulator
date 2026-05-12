@@ -20,7 +20,7 @@ A feature-rich Operating Systems project simulating dual intersections (F10 &amp
 - Mutex locks
 - Condition variables
 - Semaphores
-- Inter-process communication (pipes)
+- Inter-process communication (IPC)
 - Signal handling (SIGINT)
 
 ## Requirements
